@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Header from "./header";
+import Header from "./Header";
 import FormInpt from "./FormInpt";
 import Grosery from "./Grosery";
 import FooterCom from "./footer";
